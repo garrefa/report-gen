@@ -1,0 +1,6526 @@
+[
+  {
+    "filename": "AUOneAppUITests.swift",
+    "filepath": "../../P01793-ios-one-app/AUOneApp/AUOneAppUITests/AUOneAppUITests.swift",
+    "tests": [
+      {
+        "method": "func testExample() throws",
+        "line": 25,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "AUWelcomeCoordinatorTests.swift",
+    "filepath": "../../P01793-ios-one-app/AUOneApp/AUOneAppUITests/AUWelcomeCoordinatorTests.swift",
+    "tests": [
+      {
+        "method": "func testEnrollment()",
+        "line": 13,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "AboutThisAppTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/AboutThisAppTests.swift",
+    "tests": [
+      {
+        "method": "func test_entries_areAllAvailable() throws",
+        "line": 35,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "AboutThisAppUITests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/AboutThisAppUITests.swift",
+    "tests": [
+      {
+        "method": "func testUI()",
+        "line": 30,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTap_termAndConditions()",
+        "line": 52,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTap_copyRight()",
+        "line": 60,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTap_privacy()",
+        "line": 69,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTap_accessibility()",
+        "line": 77,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTap_charges()",
+        "line": 84,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ActionButtonsTest.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/ActionButtonsTest.swift",
+    "tests": [
+      {
+        "method": "func test_SEPAEntry()",
+        "line": 26,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_transferActionButton_opens()",
+        "line": 45,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_requestActionButton_opens()",
+        "line": 58,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_WorldLineQQCodeEntry()",
+        "line": 75,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_PayconiqQCodeEntry()",
+        "line": 81,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_bancontactQCodeEntry()",
+        "line": 86,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "AddressBookTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/AddressBookTests.swift",
+    "tests": [
+      {
+        "method": "func test_addessbookFlows_fromSettings()",
+        "line": 21,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "AgreementsTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/AgreementsTests.swift",
+    "tests": [
+      {
+        "method": "func testInternalEntryPointsPresentsAlert()",
+        "line": 25,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_loanDetails_whenFullDetailsAvailable()",
+        "line": 39,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_loanDetails_whenSimpleDetailsAvailable()",
+        "line": 64,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMoreActionsAgreementDetailsButton()",
+        "line": 96,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_investmentDetails_whenFullDetailsAvailable()",
+        "line": 116,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_investmentDetails_whenNoDetailsAvailable()",
+        "line": 138,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPlusSignOnOverviewPresentAndLaunchingProductShop()",
+        "line": 159,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testGhostAccountPresent()",
+        "line": 185,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentRequestPresentAndItsOpeningRequestFlows()",
+        "line": 203,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentRequestPresentAndItsOpeningBancontactFlowForBusinessUser()",
+        "line": 217,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSettingsButtonAddedToSavingsAgreementAndNavigatingToServiceHub()",
+        "line": 226,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSettingsButtonAddedToCardAgreementAndNavigatingToCards()",
+        "line": 233,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "BancontactTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/BancontactTests.swift",
+    "tests": [
+      {
+        "method": "func testAppSettingsEntryExists()",
+        "line": 20,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testBancontactEntryExists()",
+        "line": 25,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAppSettingsCanBePresentedAndDismissed()",
+        "line": 35,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_deepLinkPayFlow() throws",
+        "line": 42,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_deepLinkDeferredSaleFlow() throws",
+        "line": 47,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "BirthdayPiniataUITests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/BirthdayPiniataUITests.swift",
+    "tests": [
+      {
+        "method": "func testPiniataExistsAndCloses()",
+        "line": 20,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "CardInformationTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/CardInformationTests.swift",
+    "tests": [
+      {
+        "method": "func testGivenAnAgreementThatIsNotOfTypeCardTheCreditCardInformationButtonIsNotAvailable()",
+        "line": 20,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testGivenAnAgreementOfTypeCardTheCreditCardInformationButtonIsAvailable()",
+        "line": 28,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testGivenTheCreditCardInformationScreenADismissButtonMustBeAvailable()",
+        "line": 36,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "CardManagementWidgetUITests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/CardManagementWidgetUITests.swift",
+    "tests": [
+      {
+        "method": "func testCardManagementWidgetForAgreementsWithCreditCard()",
+        "line": 28,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCardManagementWidgetForAgreementsWithoutCreditCard()",
+        "line": 51,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCardManagementWidgetIsNotDisplayedWhenFeatureToggleIsDisabled()",
+        "line": 74,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCardManagementWidgetIsNotDisplayedForBusiness()",
+        "line": 82,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ChatUITests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/ChatUITests.swift",
+    "tests": [
+      {
+        "method": "func test_given_chatFeatureToggleOff_when_openChatFromUL_() throws",
+        "line": 15,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "CreditCardTransferUITests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/CreditCardTransferUITests.swift",
+    "tests": [
+      {
+        "method": "func testMultipleAccountsInitiateTransfer ()",
+        "line": 20,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "EnrollmentTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/EnrollmentTests.swift",
+    "tests": [
+      {
+        "method": "func testEnrollmentFlow()",
+        "line": 19,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "InAppCallUITests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/InAppCallUITests.swift",
+    "tests": [
+      {
+        "method": "func test_when_inAppCallFeatureIsOn_when_madeaCall_then_inAppCallModuleIsLaunch()",
+        "line": 26,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_inAppCallFeatureIsOn_when_madeaCall_then_inAppCallModuleIsNotLaunch()",
+        "line": 36,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "MobilePaymentsTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/MobilePaymentsTests.swift",
+    "tests": [
+      {
+        "method": "func testApplePayEntryExists()",
+        "line": 21,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "NewCustomerUITests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/NewCustomerUITests.swift",
+    "tests": [
+      {
+        "method": "func testOpensNewCustomerScreen()",
+        "line": 15,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PayconiqBEDeeplinkTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/PayconiqBEDeeplinkTests.swift",
+    "tests": [
+      {
+        "method": "func test_deepLinkPayconiqPayFlow() throws",
+        "line": 27,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PayconiqTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/PayconiqTests.swift",
+    "tests": [
+      {
+        "method": "func testPayconiqEntryExists()",
+        "line": 33,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_deepLinkPayFlow() throws",
+        "line": 39,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_Payconiq_Scanner_ScansBancontactQRCode()",
+        "line": 45,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_Payconiq_Scanner_ScansWorldLineQRCode()",
+        "line": 50,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PaymentCounterTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/PaymentCounterTests.swift",
+    "tests": [
+      {
+        "method": "func testZoomitPaymentCounter() throws",
+        "line": 19,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PaymentInitiationServiceTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/PaymentInitiationServiceTests.swift",
+    "tests": [
+      {
+        "method": "func testTransferFlow_forCombiUser2() throws",
+        "line": 45,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PaymentOrderListTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/PaymentOrderListTests.swift",
+    "tests": [
+      {
+        "method": "func testOrdersScreenIntialSelectionStateIsCorrect()",
+        "line": 23,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PaymentTemplatesTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/PaymentTemplatesTests.swift",
+    "tests": [
+      {
+        "method": "func test_givenUpdateTemplateFeatureToggleDisabled_WhenShowingBeneficiary_ThenNoEditButtonShouldBeProvided()",
+        "line": 16,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "Prime_AgreementSettingsUITest.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/Prime_AgreementSettingsUITest.swift",
+    "tests": [
+      {
+        "method": "func testOpenBusinessSettingsScreen ()",
+        "line": 15,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpenRetailSettingsScreen ()",
+        "line": 32,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testEditAlias()",
+        "line": 50,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUsefullLinks()",
+        "line": 71,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ProductShopTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/ProductShopTests.swift",
+    "tests": [
+      {
+        "method": "func test_whenCategoryHasCategoryPageURL_thenEnhancedWebViewOpens()",
+        "line": 20,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_Product_details()",
+        "line": 32,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_whenProductHasCallToActionURL_thenEnhancedWebViewOpens()",
+        "line": 58,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_whenProductHasCallToActionURL_thenExternalBrowserOpens()",
+        "line": 67,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testProductUniversalLink_then_EnhancedWebViewIsOpen() throws",
+        "line": 78,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCategoryUniversalLink_then_CategoryIsOpen() throws",
+        "line": 86,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCategoryUniversalLink_then_EnhancedWebViewIsOpen() throws",
+        "line": 93,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_whenDoMoreProductHasCallToActionURL_thenEnhancedWebViewOpens()",
+        "line": 101,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_whenDoMoreProductHasCallToActionURL_thenExternalBrowserOpens()",
+        "line": 114,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ProfileSwitcherTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/ProfileSwitcherTests.swift",
+    "tests": [
+      {
+        "method": "func testProfileSwitcher()",
+        "line": 15,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSwitchDefaultProfile()",
+        "line": 46,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "SearchTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/SearchTests.swift",
+    "tests": [
+      {
+        "method": "func testSearch()",
+        "line": 7,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ServiceHubTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/ServiceHubTests.swift",
+    "tests": [
+      {
+        "method": "func testDHRs()",
+        "line": 31,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPSA_T1()",
+        "line": 57,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPSA_T2()",
+        "line": 64,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPSA_T3()",
+        "line": 81,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPSA_T4()",
+        "line": 88,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_cards()",
+        "line": 95,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_accounts()",
+        "line": 105,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_payments()",
+        "line": 121,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_insurance()",
+        "line": 131,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_settings()",
+        "line": 138,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_tapOnEmergency_then_authenticatedCallModuleLaunched()",
+        "line": 144,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_tapOnCustomerService_then_authenticatedCallModuleLaunched()",
+        "line": 157,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "TaskListWidgetUITests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/TaskListWidgetUITests.swift",
+    "tests": [
+      {
+        "method": "func testTaskListWidgetHappyFlow()",
+        "line": 33,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTaskListWidgetIsDisplayedForBusiness()",
+        "line": 58,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTaskListWidgetIsUpdatedOnPullToRefresh()",
+        "line": 82,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTaskListWidgetIsNotDisplayedWhenFeatureToggleIsDisabled()",
+        "line": 112,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMultipleTaskListWidgetOpensNotificationCenter()",
+        "line": 121,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ThirdPartyGrantingTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/ThirdPartyGrantingTests.swift",
+    "tests": [
+      {
+        "method": "func test_deepLinkFlow() throws",
+        "line": 17,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "TransactionsTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/TransactionsTests.swift",
+    "tests": [
+      {
+        "method": "func testPreviewingAndSharingTransactionDetails()",
+        "line": 15,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "UniversalLinkHandlerUITests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/UniversalLinkHandlerUITests.swift",
+    "tests": [
+      {
+        "method": "func testUserNotEnrolledActivatePopupIsShownForWildcardDomain() throws",
+        "line": 36,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUserNotEnrolledActivatePopupIsShownForClosedDomain() throws",
+        "line": 58,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUserNotEnrolledActivatePopupIsShownForOpenDomain() throws",
+        "line": 80,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUserLoggedInLeaveAppConfirmationIsShownForWildcardDomains() throws",
+        "line": 92,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUserLoggedInLeaveAppConfirmationIsShownForClosedDomain() throws",
+        "line": 116,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUserLoggedInLeaveAppConfirmationIsShownForOpenDomain() throws",
+        "line": 127,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testContinueToBrowserButtonDismissesPopup() throws",
+        "line": 138,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testLeaveAppConfirmationDismissesPopup() throws",
+        "line": 168,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUserLoggedInLeaveAppConfirmationIsNotShownForNotAllowedDomains()",
+        "line": 200,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUserNotEnrolledActivatePopupIsNotShownForNotAllowedDomain()",
+        "line": 214,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUserLoggedInWithPrivateProfileThenShowChat() throws",
+        "line": 226,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUserLoggedInAndSwitchToBusinessProfileThenShowChatIsSupported() throws",
+        "line": 236,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testProductShop_Category_UL() throws",
+        "line": 255,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "XMLPaymentsTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/XMLPaymentsTests.swift",
+    "tests": [
+      {
+        "method": "func testXMLPaymentsCloseButton()",
+        "line": 24,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ZoomitTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/ZoomitTests.swift",
+    "tests": [
+      {
+        "method": "func testZoomitScreenDisplay()",
+        "line": 31,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testZoomitOpensMoneyTransfer()",
+        "line": 38,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ActivationDeeplinkUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/ActivationDeeplinkUITests.swift",
+    "tests": [
+      {
+        "method": "func testActivationDeeplink_whenNotRegisterd_thenShouldOpenEnrollment()",
+        "line": 16,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testActivationDeeplink_whenRegisterdAndNotLogin_thenShouldOpenAddProfile()",
+        "line": 24,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testActivationDeeplink_whenRegisterdAndLogin_thenShouldOpenAddProfile()",
+        "line": 41,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "BP_CardManagementUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/BP_CardManagementUITests.swift",
+    "tests": [
+      {
+        "method": "func testOpenCardManagementFromServiceHub_thenCloseCardManagement()",
+        "line": 37,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpenCardManagementFromServiceHub_openEWV()",
+        "line": 57,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpenCardManagementFromCardWidget_openEWV()",
+        "line": 79,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpenCardManagementFromCardWidget_thenCreditCardSettings()",
+        "line": 99,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpenMobilePayments()",
+        "line": 118,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMobilePaymentsButtonIsNotVisible_whenMobilePaymentsIsDisabled()",
+        "line": 134,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUpdateGeoProfileFromWorldToEurope()",
+        "line": 150,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUpdateGeoProfileFromEuropeToWorld()",
+        "line": 166,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUpdateGeoProfileNotPossible_thenActionNotAvailable()",
+        "line": 184,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "BP_MobilePaymentsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/BP_MobilePaymentsUITests.swift",
+    "tests": [
+      {
+        "method": "func testMobilePaymentsIsOpenedFromDeeplinkForPrivateProfile()",
+        "line": 18,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMobilePaymentsIsOpenedFromDeeplinkForBusinessProfile()",
+        "line": 37,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAlertIsShownFromDeeplinkWhenFeatureToggleIsDisabled()",
+        "line": 55,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "BP_TokenizationEnrollmentUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/BP_TokenizationEnrollmentUITests.swift",
+    "tests": [
+      {
+        "method": "func test_pullEnrollment_happyFlow() throws",
+        "line": 20,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_pushEnrollmentCallback_success() throws",
+        "line": 32,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_pushEnrollmentCallback_declined() throws",
+        "line": 44,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_pushEnrollmentCallback_cancelled() throws",
+        "line": 53,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_pushEnrollmentCallback_error() throws",
+        "line": 62,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "CardManagementWidgetUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/CardManagementWidgetUITests.swift",
+    "tests": [
+      {
+        "method": "func testCardManagementWidgetForAgreementsWithCreditCard()",
+        "line": 28,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCardManagementWidgetForAgreementsWithoutCreditCard()",
+        "line": 44,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCardManagementWidgetIsNotDisplayedWhenFeatureToggleIsDisabled()",
+        "line": 61,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCardManagementWidgetIsNotDisplayedForBusiness()",
+        "line": 69,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "CreditCardUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/CreditCardUITests.swift",
+    "tests": [
+      {
+        "method": "func test_repay_happyFlow()",
+        "line": 49,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_transferOrderCreation_error_invalidAgreementId()",
+        "line": 64,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_redeem_transferOrderCreation_error_minimumAmount()",
+        "line": 75,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_redeem_basketCreator_error_overDailyLimit()",
+        "line": 86,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_redeem_confirmationStatus_error_flux_ordve002()",
+        "line": 97,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_redeem_from_addressBook()",
+        "line": 109,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "Cryptonite_TpaLogoutUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/Cryptonite_TpaLogoutUITests.swift",
+    "tests": [
+      {
+        "method": "func test_TpaLogout_for_multi_profile()",
+        "line": 15,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_TpaLogout_for_single_profile()",
+        "line": 24,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_TpaLogout_from_ServiceHub()",
+        "line": 32,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "DailyLimitFlowUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/DailyLimitFlowUITests.swift",
+    "tests": [
+      {
+        "method": "func test_GivenMultipleLimits_ThenVerifyScreen_AndSelectOne()",
+        "line": 32,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDailyLimitReachableFromServiceHub()",
+        "line": 64,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPrivateAccountAmountIncrease()",
+        "line": 72,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMultipleAccountAmountIncrease()",
+        "line": 103,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testHigherDailyLimitForBusinessAccount()",
+        "line": 135,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testEndDate()",
+        "line": 166,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testNonEditableDateField()",
+        "line": 185,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testStatusMessageWhenFlowCanceled()",
+        "line": 195,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivedDailyLimitChangeScreen_VerifyElements()",
+        "line": 221,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GiverEmptyLimitResponse_ExpectError_AndExit()",
+        "line": 237,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_dailyLimitChangeWith_profileBlockedError_userIsDeregistered()",
+        "line": 250,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_setDailyLimit_failure_withSpecificCode_ORDDL021()",
+        "line": 280,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_setDailyLimit_failure()",
+        "line": 300,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "DebitCardActivationUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/DebitCardActivationUITests.swift",
+    "tests": [
+      {
+        "method": "func testDebitCardFlow_mingLogin_blockedAccountError()",
+        "line": 46,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDebitCardFlow_profileSelectionError()",
+        "line": 61,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "EasyLoginUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/EasyLoginUITests.swift",
+    "tests": [
+      {
+        "method": "func test_happyFlow_singleProfile()",
+        "line": 17,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_happyFlow_multiProfile()",
+        "line": 32,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_happyFlow_singleProfile_withRedirectUrl()",
+        "line": 47,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_happyFlow_multiProfile_withRedirectUrl()",
+        "line": 62,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_unhappyFlow_singleProfile()",
+        "line": 79,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_unhappyFlow_multiProfile()",
+        "line": 91,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_cancelFlow_singleProfile()",
+        "line": 105,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_cancelFlow_multiProfile()",
+        "line": 126,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FTM_PushSettingsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FTM_PushSettingsUITests.swift",
+    "tests": [
+      {
+        "method": "func testPushSettingsDisable()",
+        "line": 33,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FTM_PushUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FTM_PushUITests.swift",
+    "tests": [
+      {
+        "method": "func testPushMessage_withLegacyAlertFormat()",
+        "line": 16,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPushMessage()",
+        "line": 23,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTransactionsWithTargetId_withLegacyAlertFormat()",
+        "line": 30,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTransactionsWithTargetId()",
+        "line": 39,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTransactionsWithTargetIdTwice_withLegacyAlertFormat()",
+        "line": 49,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTransactionsWithTargetIdTwice()",
+        "line": 66,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTransactionsWithoutTargetId_withLegacyAlertFormat()",
+        "line": 83,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTransactionsWithoutTargetId()",
+        "line": 93,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPushAddressChange()",
+        "line": 103,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FTM_TransactionDetailsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FTM_TransactionDetailsUITests.swift",
+    "tests": [
+      {
+        "method": "func testPaymentRequestScreenOpens()",
+        "line": 40,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testRefundScreenOpens()",
+        "line": 46,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testShareSingleTransactionScreenOpens()",
+        "line": 52,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FTM_TransactionsChangeSubscriptionUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FTM_TransactionsChangeSubscriptionUITests.swift",
+    "tests": [
+      {
+        "method": "func testChangeSubscriptionPopTransactions()",
+        "line": 46,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FTM_TransactionsInfoUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FTM_TransactionsInfoUITests.swift",
+    "tests": [
+      {
+        "method": "func testSavingsInfo()",
+        "line": 30,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCreditCardInfo()",
+        "line": 39,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FTM_TransactionsSelectionModeUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FTM_TransactionsSelectionModeUITests.swift",
+    "tests": [
+      {
+        "method": "func testSelectionModeOneTransactionHappyFlow()",
+        "line": 40,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSelectionModeMultipleTransactionsHappyFlow()",
+        "line": 55,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCancelSelectionModeMultipleWaysFlow()",
+        "line": 66,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testNoSelectionModeFlow()",
+        "line": 83,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_CreatePaymentRequestFromTransactionUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_CreatePaymentRequestFromTransactionUITests.swift",
+    "tests": [
+      {
+        "method": "func testPaymentRequestFromTransactionCanContinueToCreatePaymentRequestFlow()",
+        "line": 41,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentRequestFromTransactionCanInstantlyCreatePaymentRequest()",
+        "line": 57,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentRequestFromTransactionAndEasySplitPromo()",
+        "line": 73,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentRequestFromTransactionStripsUnsupportedCharactersFromDescription()",
+        "line": 99,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentRequestFromCreditCardTransaction()",
+        "line": 117,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_CreateTPAPaymentRequestUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_CreateTPAPaymentRequestUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyFlow()",
+        "line": 41,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testHappyFlowBusiness()",
+        "line": 47,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testNoAmountHappyFlow()",
+        "line": 53,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testNoAmountHappyFlowBusiness()",
+        "line": 59,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentRequestTopButtonBusiness()",
+        "line": 65,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentRequestTopButtonRetail()",
+        "line": 72,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDescriptionIsValidated()",
+        "line": 79,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_CurrenceIDealQRScannerUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_CurrenceIDealQRScannerUITests.swift",
+    "tests": [
+      {
+        "method": "func test_Given_CurrenceiDEALQRCodeAndRetailAccount_ThenSuccessfulyComplete_iDEALPaymentFlow()",
+        "line": 52,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_Given_CurrenceiDEALQRCodeAndCombiAccount_ThenSuccessfulyComplete_iDEALPaymentFlow()",
+        "line": 67,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_Given_INGiDEALQRCodeAndRetailAccount_ThenSuccessfullyComplete_iDEALPaymentFlow()",
+        "line": 84,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_Given_INGiDEALQRCodeAndCombiAccount_ThenSuccessfullyComplete_iDEALPaymentFlow()",
+        "line": 99,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_GenericQRScannerUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_GenericQRScannerUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyFlow()",
+        "line": 41,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testWhenScanningInvalidQRCodeThenScannerDetectsQRCode()",
+        "line": 52,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_IdealQRScannerUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_IdealQRScannerUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyFlow()",
+        "line": 47,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testHappyFlowWithCombi()",
+        "line": 62,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_idealPaymentWith_ProfileBlockedError_userIsDeregistered()",
+        "line": 77,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_iDEAL_paymentSuccessful_thenForcesAgreementsCacheRefresh()",
+        "line": 97,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_IdinQRScannerUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_IdinQRScannerUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyFlowWithStayInAppButton()",
+        "line": 41,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testHappyFlowWithLogOutButton()",
+        "line": 62,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_OrdersUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_OrdersUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyFlow()",
+        "line": 43,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testNewPaymentFlow()",
+        "line": 55,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenRetailProfile_WhenAgreementsMismatch_ThenFallbackToFirstCurrent_AndStartNewPaymentFlow()",
+        "line": 64,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenBusinessProfile_AndCategorizationDisabled_ThenNewPaymentFlow()",
+        "line": 76,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testRemoveOrdersFlow()",
+        "line": 86,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAddToAddressBookFlow()",
+        "line": 99,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAddToAddressBookFlow_withPaymentTemplates()",
+        "line": 113,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_PaymentDiacriticsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_PaymentDiacriticsUITests.swift",
+    "tests": [
+      {
+        "method": "func test_payment_recipientName_allowsDiacriticsInCharacterSet()",
+        "line": 39,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_payment_recipientName_allowsExtendedCharacterSet()",
+        "line": 61,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_payment_description_allowsExtendedCharacterSet()",
+        "line": 72,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_PaymentMethodsOrdersUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_PaymentMethodsOrdersUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyFlow()",
+        "line": 44,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testNewPaymentFlow()",
+        "line": 54,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAddToAddressBookFlow()",
+        "line": 61,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_PaymentMethodsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_PaymentMethodsUITests.swift",
+    "tests": [
+      {
+        "method": "func testPaymentMethods_available_Orders()",
+        "line": 19,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_PaymentRequestDetailUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_PaymentRequestDetailUITests.swift",
+    "tests": [
+      {
+        "method": "func test_GivenPaymentRequest_WhenOpenDetails_AndOnePaybackTransaction_ThenOpenShareSheet()",
+        "line": 41,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenPaymentRequest_WhenOpenDetails_AndMultiplePaybackTransactions_ThenAttemptFailedDelete()",
+        "line": 56,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenPaymentRequest_WhenOpenDetails_AndEmptyPaybackTransactions_ThenAttemptFailedDelete()",
+        "line": 68,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenPaymentRequest_WhenOpenDetails_AndOpenShareSheet_ThenChooseSaveOrViewQRCode()",
+        "line": 76,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_PaymentRequestListUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_PaymentRequestListUITests.swift",
+    "tests": [
+      {
+        "method": "func test_GivenPaymentRequestList_WhenDefault_ThenOpenPaymentRequestDetails()",
+        "line": 41,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenPaymentRequestList_WhenExpired_AndOpenPaymentRequestDetails_ThenDelete()",
+        "line": 49,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenPaymentRequestList_WhenHintViewAllowed_ThenCheckHintView()",
+        "line": 67,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenPaymentRequestList_WhenEmpty_ThenEmptyStateShown()",
+        "line": 85,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenPaymentRequestList_WhenDefault_ThenSwipeToDelete()",
+        "line": 94,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenPaymentRequestList_WhenDefault_AndOpenPaymentRequestDetails_ThenDelete()",
+        "line": 112,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_PaymentRequestQRCodeUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_PaymentRequestQRCodeUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyPaybackFlow()",
+        "line": 64,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testHappyFlowAmountIsAdjustable()",
+        "line": 85,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testHappyFlowAmountNotAdjustable()",
+        "line": 111,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUnhappyPaybackFlow()",
+        "line": 138,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_givenCurrentAccountsIncident_whenSEPAQRScanned_thenMoneyTransferUnavailable()",
+        "line": 148,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_PersonalDailyLimitUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_PersonalDailyLimitUITests.swift",
+    "tests": [
+      {
+        "method": "func test_givenFeatureEnabled_personalDailyLimitIsReachableFromServiceHub()",
+        "line": 27,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_givenFeatureEnabledAndBusiness_personalDailyLimitIsReachableFromSettings()",
+        "line": 35,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "FWT_TPAPaymentRequestPaybackUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/FWT_TPAPaymentRequestPaybackUITests.swift",
+    "tests": [
+      {
+        "method": "func testCompletePaybackFlowUsingPrivateAccount()",
+        "line": 60,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_givenCurrentAccountsIncident_whenPaymentRequestPayback_andPayWithING_thenMoneyTransferUnavailable()",
+        "line": 91,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCompletePaybackFlowUsingPrivateAccountLegacyUrl()",
+        "line": 133,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCompletePaybackFlowUsingPrivateAccountWithPaymentFeatureToggleEnabledAndAlreadyLoggedIn()",
+        "line": 164,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCompletePaybackFlowUsingCombiAccount()",
+        "line": 183,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaybackFlowExpiredState()",
+        "line": 205,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaybackFlowNotFound()",
+        "line": 226,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaybackFlowCanBeDismissed()",
+        "line": 247,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaybackFlowBeingPresentedOverModal()",
+        "line": 274,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "INGSearchUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/INGSearchUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyFlowForSearchNavigationBar() throws",
+        "line": 21,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUnHappyFlowForSearchNavigationBar()",
+        "line": 39,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "IdinUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/IdinUITests.swift",
+    "tests": [
+      {
+        "method": "func testIdinURLWhenUserIsNotLoggedInHappyFlow() throws",
+        "line": 42,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testIdinURLWhenUserIsAlreadyLoggedInHappyFlow() throws",
+        "line": 73,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testIdinCancelFlow() throws",
+        "line": 95,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "JointAccountQRScannerUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/JointAccountQRScannerUITests.swift",
+    "tests": [
+      {
+        "method": "func testJointAccountQRCodeOpenEnhancedWebView()",
+        "line": 46,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInvalidJointAccountQRCode()",
+        "line": 57,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ManualActivationUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/ManualActivationUITests.swift",
+    "tests": [
+      {
+        "method": "func testSAEIsStarted()",
+        "line": 45,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "OnboardingUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/OnboardingUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyFlowOnboardingDisabled()",
+        "line": 37,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testHappyFlowOnboardingEnabled()",
+        "line": 45,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "OneChat_AuthenticatedCallUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/OneChat_AuthenticatedCallUITests.swift",
+    "tests": [
+      {
+        "method": "func test_when_tapOnCustomerService_then_authenticatedCallModuleLaunched()",
+        "line": 36,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "OneChat_ChatUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/OneChat_ChatUITests.swift",
+    "tests": [
+      {
+        "method": "func test_given_combiAcccount_when_openingChatLink_then_chatIsOpenAndServiceTabIsSelected() throws",
+        "line": 32,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_retailAcccount_when_openingChatLink_then_chatIsOpenAndServiceTabIsSelected() throws",
+        "line": 37,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_businessAcccount_when_openingChatLink_then_chatIsOpen() throws",
+        "line": 42,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_chatRetailNotification_then_profileIsCorrect()",
+        "line": 46,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_chatBusinessNotification_then_profileIsCorrect()",
+        "line": 50,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_chatIncident_when_servicehubIsselected_then_chatEntryPointIsCorrect()",
+        "line": 54,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_chatIncident_when_openFromDeeplink_then_unavailableDialogAppears() throws",
+        "line": 67,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_featureOpenInModal_when_openFromDeeplink_then_chatIsOpen() throws",
+        "line": 78,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PaymentInitiationServiceUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/PaymentInitiationServiceUITests.swift",
+    "tests": [
+      {
+        "method": "func testGivenRegisteredPrivateAccount_whenOpeningFlowFromDeeplink_thenFlowCompletesSuccessfully() throws",
+        "line": 41,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testGivenRegisteredAndLoggedInCombiAccount_whenOpeningFlowFromDeeplink_thenFlowCompletesSuccessfully() throws",
+        "line": 70,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PaymentsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/PaymentsUITests.swift",
+    "tests": [
+      {
+        "method": "func test_paymentWith_minimumFields_happyFlow()",
+        "line": 52,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_payment_fromTheSameContactTwice()",
+        "line": 60,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_paymentWith_maximumFields_happyFlow()",
+        "line": 75,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_paymentFlowStarted_fromTransaction_happyFlow()",
+        "line": 90,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_businessPaymentWith_minimumFields_happyFlow()",
+        "line": 103,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_paymentWith_jta()",
+        "line": 114,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenMoneyTransferFlow_WhenInstantPaymentNotAllowed_ThenVerifyExpectations_AndExecuteTransfer()",
+        "line": 126,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_GivenMoneyTransferFlow_orderTypeIsLoaded_onlyWhithoutSchedule()",
+        "line": 135,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_instantPayment_whenResendableError_thenResendTransfer()",
+        "line": 146,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_instantPayment_whenResendableError_thenGoToTransactions()",
+        "line": 166,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentReferenceCheckFail217SetMessagethenGoBackAndCheckMessageReferenceFieldExclusivity()",
+        "line": 179,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_paymentWith_profileBlockedError_userIsDeregistered()",
+        "line": 187,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_paymentWith_transferOrderCreationError_minimumAmount()",
+        "line": 198,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_paymentWith_basketCreatorError_overDailyLimit()",
+        "line": 208,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_paymentWith_confirmationStatusError_ordve002()",
+        "line": 218,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_paymentWith_confirmationStatusError_pending()",
+        "line": 229,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_recurringPaymentWith_confirmationStatusError_pending()",
+        "line": 239,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_givenCurrentAccountsIncident_payment_cannotBeMade()",
+        "line": 252,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_givenSavingsIncident_payment_canBeMade()",
+        "line": 262,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_givenCurrentAccountsIncident_payment_cannotBeMade_canBeMadeAfterLoggingOutAndInAgain()",
+        "line": 273,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_internationalTransferButton()",
+        "line": 290,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PendingConsentUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/PendingConsentUITests.swift",
+    "tests": [
+      {
+        "method": "func test_pendingGMTBasket_createdBeforeLogin_isPresentedAfterLogin()",
+        "line": 21,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_pendingGMTBasket_createdAfterLogin_isPresentedWhenApplicationURLIsTriggered()",
+        "line": 43,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_deeplinkIsPresented_andBasketIsIgnored_ifPendingBasketIsFetched()",
+        "line": 69,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PersonalDetailsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/PersonalDetailsUITests.swift",
+    "tests": [
+      {
+        "method": "func test_serviceHub_fromMessagesMenu()",
+        "line": 28,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_personalDetails_fromServiceHub()",
+        "line": 40,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_personalDetails_ssoFlows()",
+        "line": 53,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "Platform_AboutThisAppViewControllerUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/Platform_AboutThisAppViewControllerUITests.swift",
+    "tests": [
+      {
+        "method": "func test_before_registration_elements()",
+        "line": 36,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_before_login_elements()",
+        "line": 46,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_navigate_to_tour()",
+        "line": 65,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "Platform_SettingsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/Platform_SettingsUITests.swift",
+    "tests": [
+      {
+        "method": "func testBeingAbleToNavigateToSettings()",
+        "line": 25,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testForecastingIsNotShownForBusinessCustomers()",
+        "line": 32,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCookieSettingsOpensSSOFlow()",
+        "line": 39,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testGoToMingSSOFlow()",
+        "line": 50,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testGoToMingSSOFlow_Business()",
+        "line": 61,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOVPay()",
+        "line": 72,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOVPayBusiness()",
+        "line": 83,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testConnections()",
+        "line": 94,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testConnectionsBusiness()",
+        "line": 105,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDailyLimitSetting()",
+        "line": 116,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "Prime_AgreementSettingsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/Prime_AgreementSettingsUITests.swift",
+    "tests": [
+      {
+        "method": "func testVATCalculator()",
+        "line": 40,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAgreementSettingsPageUsefulLinksConfigurationForPrivateUser()",
+        "line": 52,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAgreementSettingsPageUsefulLinksConfigurationForBusinessUser()",
+        "line": 109,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAgreementSettingsPageForInvestmentUser()",
+        "line": 145,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "Prime_BalanceBeforeLoginUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/Prime_BalanceBeforeLoginUITests.swift",
+    "tests": [
+      {
+        "method": "func testEnableBBLinSettings()",
+        "line": 21,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "Prime_BirthdayPiniataUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/Prime_BirthdayPiniataUITests.swift",
+    "tests": [
+      {
+        "method": "func testPiniataExistsAndCloses()",
+        "line": 22,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "Prime_InsightsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/Prime_InsightsUITests.swift",
+    "tests": [
+      {
+        "method": "func testThatTappingOnMoveMoneyInsightIsLaunchingMoneyTransferScreenForDeposit()",
+        "line": 40,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testThatTappingOnRequestMoneyInsightActionIsLaunchingPaymentRequest()",
+        "line": 66,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testGhostAccountPresent()",
+        "line": 93,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testThatLookaheadIsOpenedWhenTappingOnLookAheadInsight()",
+        "line": 108,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "Prime_OverviewUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/Prime_OverviewUITests.swift",
+    "tests": [
+      {
+        "method": "func testThatTappingInOverviewTabPopsToOverviewIfWeAreInThatTab()",
+        "line": 43,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPlusSignOnOverviewLaunchingProductShop_SSO()",
+        "line": 70,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPlusSignOnOverviewLaunchingProductShop_EWV()",
+        "line": 90,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAgreementDetailsScreenIsLaunchingForecastFlow()",
+        "line": 109,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAgreementSettingsForSavingsIsOpening()",
+        "line": 126,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testGivenCombiUser_whenSwitchingProfile_thenDetailsViewControllerIsPopped()",
+        "line": 144,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDownloadStatementsCustomButtonAddedForBusinessUserOrNot()",
+        "line": 165,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInvesmentDetailsPage()",
+        "line": 177,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInsuranceOpenEWV()",
+        "line": 194,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testLeaseOpenEWV()",
+        "line": 210,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testActionsButtonsArePresentOnOverview()",
+        "line": 226,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTransferButtonOnDetailsScreenIsLaunchingTheTransferScreen()",
+        "line": 285,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDepositAndWithdrawButtonOnDetailsScreenIsLaunchingTheTransferScreen()",
+        "line": 305,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testIsRedeemButtonOnCreditCardLaunchingTheFlowOrNot()",
+        "line": 328,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testIsRedeemButtonOnLoanLaunchingTheFlowOrNot()",
+        "line": 343,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentRequestButtonOpeningFlowOrNot()",
+        "line": 358,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInvestmentAccountDepositAndWithdrawButtonsLaunchSSO()",
+        "line": 375,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInvestmentAccountDepositV2AndWithdrawV2AndMoneyTransferButtonsLaunchEWV()",
+        "line": 395,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInvestmentAccountExploreButtonLaunchesExploreNativeScreen()",
+        "line": 414,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInvestmentAccountExploreButtonNotPresentWhenNotInExperiment()",
+        "line": 437,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testLookAheadActionIsOpeningForecastingScreen()",
+        "line": 455,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMortgageAdditionalRepaymentAndChangeLinkedAccountButtons()",
+        "line": 471,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSavingsInterestInfoOpeningSSO()",
+        "line": 483,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPensionSavingsInterestInfoButtonOpeningSafari()",
+        "line": 495,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testLoyaltyShopButtonIsOpeningSSO()",
+        "line": 509,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "Prime_PreferredOverviewUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/Prime_PreferredOverviewUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyFlowForMigratedUser()",
+        "line": 12,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ProductShopActionHandlerUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/ProductShopActionHandlerUITests.swift",
+    "tests": [
+      {
+        "method": "func test_whenSelectCategoryWithCategoryPageUrl_then_EnhancedWebViewIsOpen()",
+        "line": 34,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_whenSelectProductWithCallToActionUrl_then_EnhancedWebViewIsOpen()",
+        "line": 43,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_whenSelectProductWithCallToActionUrl_then_SSOIsOpen()",
+        "line": 54,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_whenSelectProductWithCallToActionUrl_then_ExternalBrowserIsOpen()",
+        "line": 66,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testProductUniversalLink_then_EnhancedWebViewIsOpen() throws",
+        "line": 84,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCategoryUniversalLink_then_CategoryIsOpen() throws",
+        "line": 96,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCategoryUniversalLink_then_EnhancedWebViewIsOpen() throws",
+        "line": 106,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDoMoreProduct_then_EnhancedWebViewIsOpen()",
+        "line": 116,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_whenSelectDoMoreProductWithCallToActionUrl_then_EnhancedWebViewIsOpen()",
+        "line": 132,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_whenSelectDoMoreProduct_then_SSOIsOpen()",
+        "line": 141,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ProductShopApplicationURL_UITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/ProductShopApplicationURL_UITests.swift",
+    "tests": [
+      {
+        "method": "func testRequiresPrivateSubscription()",
+        "line": 17,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpensProduct()",
+        "line": 31,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpensProductInEWV()",
+        "line": 53,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_categoriesURL_requiresPrivateSubscription()",
+        "line": 69,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpensCategory()",
+        "line": 84,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpensProductList()",
+        "line": 95,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ProfileCoordinatorUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/ProfileCoordinatorUITests.swift",
+    "tests": [
+      {
+        "method": "func testSwitchSubscriptionFromLongPress()",
+        "line": 35,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testLogoutFromSubscriptionSelector()",
+        "line": 58,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "RefundDirectDebitFlowUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/RefundDirectDebitFlowUITests.swift",
+    "tests": [
+      {
+        "method": "func test_givenRefundAvailable_WhenAborted_ThenReturnToTransactionDetails()",
+        "line": 28,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_givenRefundAvailable_WhenRequested_ThenSuccess()",
+        "line": 46,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_givenRefundAvailable_WhenRequested_ThenForbidden()",
+        "line": 68,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_givenRefundAvailable_WhenRequested_ThenNotFound()",
+        "line": 90,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_givenRefundAvailable_WhenRequested_ThenServerError()",
+        "line": 112,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ReidentificationUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/ReidentificationUITests.swift",
+    "tests": [
+      {
+        "method": "func testReidentificationStartsAndCancels()",
+        "line": 36,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testReidentificationError()",
+        "line": 45,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testReidentificationExceededAttemptsThreshold()",
+        "line": 56,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "SavedTemplateListUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/SavedTemplateListUITests.swift",
+    "tests": [
+      {
+        "method": "func testOptionsOnBeneficiaryWithoutLinks()",
+        "line": 33,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMutableFieldsForUpdate()",
+        "line": 41,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testGenericErrorWhileUpdate()",
+        "line": 57,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSubmitButtonEnabled()",
+        "line": 69,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDeleteFeature()",
+        "line": 86,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSwipeToDelete()",
+        "line": 95,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCopyIBANFeature()",
+        "line": 106,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTransferFromTemplateDetails()",
+        "line": 115,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "SearchUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/SearchUITests.swift",
+    "tests": [
+      {
+        "method": "func testSearch() throws",
+        "line": 22,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ServiceHubDeeplinkUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/ServiceHubDeeplinkUITests.swift",
+    "tests": [
+      {
+        "method": "func testServiceHubFlow()",
+        "line": 40,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testServiceHubFlow_allOptions()",
+        "line": 46,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testServiceHubFlow_yourDetails()",
+        "line": 52,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testServiceHubFlow_yourCards()",
+        "line": 58,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testServiceHubFlow_yourAccount()",
+        "line": 64,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testServiceHubFlow_accessAndConfirmation()",
+        "line": 70,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testServiceHubFlow_dashboard()",
+        "line": 76,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpeningGeoblockingDeeplinkWithModalPage()",
+        "line": 83,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ServiceHubIntegrationUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/ServiceHubIntegrationUITests.swift",
+    "tests": [
+      {
+        "method": "func testUIElementsExists()",
+        "line": 32,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDHRSection()",
+        "line": 48,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testYourDetailsFlow()",
+        "line": 67,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testYourAccountFlow()",
+        "line": 78,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAccessAndConfirmationFlow()",
+        "line": 91,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testYourDetailsFlows()",
+        "line": 118,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInAppVideoFlow()",
+        "line": 137,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testYourAccountFlows()",
+        "line": 147,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAccessAndConfirmationFlows()",
+        "line": 180,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUnblockCardPSA()",
+        "line": 207,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testActivateCreditCardPSA()",
+        "line": 222,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTransferCreditCardBalancePSA()",
+        "line": 231,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testYourAppSettings()",
+        "line": 250,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testYourCards()",
+        "line": 258,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_Login_WithPrivatePilotAccount()",
+        "line": 268,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_ServiceTableView_Exists()",
+        "line": 275,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_FeedbackButton_Tap()",
+        "line": 282,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_tapOnChatButton_then_chatIsOpen()",
+        "line": 290,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_tapOnEmergency_then_authenticatedCallModuleLaunched()",
+        "line": 305,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_tapOnCustomerService_then_authenticatedCallModuleLaunched()",
+        "line": 320,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "SettingsCoordinatorUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/SettingsCoordinatorUITests.swift",
+    "tests": [
+      {
+        "method": "func testDeepLinkingToSettingsPagesIsSupported() throws",
+        "line": 43,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testNavigateToBalanceBeforeLogin() throws",
+        "line": 63,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testNavigateToBalanceBeforeLoginWhenUserIsNotLoggedIn() throws",
+        "line": 80,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testNavigateToAndVerifyForecastingSettingsIfUserIsNotLoggedIn() throws",
+        "line": 95,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testNavigateToAndVerifyForecastingSettings() throws",
+        "line": 106,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "SingleSignOnUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/SingleSignOnUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyFlow()",
+        "line": 17,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUnhappyFlow()",
+        "line": 42,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCanceledFlow()",
+        "line": 53,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "TPALoansUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/TPALoansUITests.swift",
+    "tests": [
+      {
+        "method": "func test_withdraw_happyFlow()",
+        "line": 51,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_redeem_happyFlow()",
+        "line": 62,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "TPASavingsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/TPASavingsUITests.swift",
+    "tests": [
+      {
+        "method": "func test_withdraw_happyFlow()",
+        "line": 58,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_deposit_happyFlow()",
+        "line": 72,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_withdraw_transferOrderCreation_error_minimumAmount()",
+        "line": 86,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_withdraw_basketCreator_error_overDailyLimit()",
+        "line": 100,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_withdraw_confirmationStatus_error_flux_ordve002()",
+        "line": 113,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_withdraw_confirmationStatus_pending()",
+        "line": 128,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_deposit_from_addressBook()",
+        "line": 142,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_givenSavingsIncident_withdraw_cannotBeMade()",
+        "line": 160,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "TabBarCoordinatorUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/TabBarCoordinatorUITests.swift",
+    "tests": [
+      {
+        "method": "func testProductshopAvailabilityForPrivateAccount()",
+        "line": 55,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testProductshopAvailabilityForBusinessAccount()",
+        "line": 62,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOverview()",
+        "line": 78,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentRequestRetail()",
+        "line": 83,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testPaymentRequestBusiness()",
+        "line": 88,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "TabBarPresentationCoordinatorUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/TabBarPresentationCoordinatorUITests.swift",
+    "tests": [
+      {
+        "method": "func testQueueOpenSettingsViaUrl() throws",
+        "line": 42,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpeningScannerShouldDismissSettings() throws",
+        "line": 49,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testQueueOpenScannerViaUrl() throws",
+        "line": 56,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpeningTabViaURLDismissesPresentedViewControllerThatWasOpenedManually()",
+        "line": 62,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpeningTabDismissesPresentedViewControllerWithLowerPriority() throws",
+        "line": 79,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpeningTabRemovesQueueItemsWithLowerPriority() throws",
+        "line": 97,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testThatDisruptiveTabbarActionDismissesManuallyOpenedScreen() throws",
+        "line": 112,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "TaskListWidgetUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/TaskListWidgetUITests.swift",
+    "tests": [
+      {
+        "method": "func testTaskListWidgetHappyFlow()",
+        "line": 34,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTaskListWidgetIsDisplayedForBusiness()",
+        "line": 62,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTaskListWidgetIsUpdatedOnPullToRefresh()",
+        "line": 92,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTaskListWidgetIsNotDisplayedWhenFeatureToggleIsDisabled()",
+        "line": 122,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMultipleTaskListWidgetOpensNotificationCenter()",
+        "line": 132,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMultipleTaskListWidgetOpensServiceHubWhenNotificationCenterIsDisabled()",
+        "line": 149,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "TemplateListUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/TemplateListUITests.swift",
+    "tests": [
+      {
+        "method": "func testFirstCurrentAccountIsDisabledInPaymentTemplates()",
+        "line": 48,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSecondCurrentAccountIsDisabledInPaymentTemplates()",
+        "line": 56,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSelectingCurrentAccountFillsMTFormData()",
+        "line": 65,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSelectingContactFillsMTFormData()",
+        "line": 79,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "TourUITests.swift",
+    "filepath": "../../P01793-ios-one-app/Bankieren/Bankieren/Sources/UITest/TourUITests.swift",
+    "tests": [
+      {
+        "method": "func testTour()",
+        "line": 37,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "DEOneAppUITests.swift",
+    "filepath": "../../P01793-ios-one-app/DEOneApp/DEOneAppUITests/DEOneAppUITests.swift",
+    "tests": [
+      {
+        "method": "func testExample() throws",
+        "line": 25,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testLaunchPerformance() throws",
+        "line": 33,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "DEOneAppUITestsLaunchTests.swift",
+    "filepath": "../../P01793-ios-one-app/DEOneApp/DEOneAppUITests/DEOneAppUITestsLaunchTests.swift",
+    "tests": [
+      {
+        "method": "func testLaunch() throws",
+        "line": 20,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "EWVMoneyTransferUITests.swift",
+    "filepath": "../../P01793-ios-one-app/ITOneApp/ITOneAppUITests/EWVMoneyTransferUITests.swift",
+    "tests": [
+      {
+        "method": "func testMoneyTransferFlowStartsSuccessfully() throws",
+        "line": 14,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "AgreementsOveriewURLTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/Agreements/AgreementsOveriewURLTests.swift",
+    "tests": [
+      {
+        "method": "func testAgreementsOverviewURL() throws",
+        "line": 25,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAgreementsOverviewURLDeeplinkToDetails() throws",
+        "line": 36,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAgreementsOverviewURLDeeplinkToForecasting() throws",
+        "line": 53,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAgreementsOverviewURLDeeplinkToProductSuggestion() throws",
+        "line": 76,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "AgreementsTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/Agreements/AgreementsTests.swift",
+    "tests": [
+      {
+        "method": "func testLoadAgreements()",
+        "line": 25,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testLoadingAndRefreshingCurrentAccountAgreement()",
+        "line": 31,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInternalEntryPointsPresentsAlert()",
+        "line": 55,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_investmentDetails_whenInvestmentsAppLinkAvailable()",
+        "line": 69,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_investmentDetails_whenNoInvestmentsAppLinkAvailable()",
+        "line": 81,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAgreementDetailPages()",
+        "line": 93,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testLoadingNoAgreementsJson ()",
+        "line": 142,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ApplePaySettingsItemUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/ApplePaySettingsItemUITests.swift",
+    "tests": [
+      {
+        "method": "func testApplePaySettingsItem()",
+        "line": 20,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ApplicationCoordinatorTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/ApplicationCoordinatorTests.swift",
+    "tests": [
+      {
+        "method": "func testPresentationQueueItemIntegration()",
+        "line": 16,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ApplicationStatusVerificationTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/ApplicationStatusVerificationTests.swift",
+    "tests": [
+      {
+        "method": "func testApplicationStatusVerificationHandlesAnyOtherError()",
+        "line": 32,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testApplicationStatusVerificationHandlesMaintenanceModeWhenEnrolled()",
+        "line": 38,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testApplicationStatusVerificationHandlesMaintenanceModeWhenOutage()",
+        "line": 44,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testApplicationStatusVerificationShowMandatoryUpdate()",
+        "line": 50,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_showsOptionalUpdateAndOpenAppStore_whenUpdateButtonIsTapped()",
+        "line": 59,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_showsOptionalUpdateAndSkipLeadsToLogin_whenRemindLaterIsTapped()",
+        "line": 73,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "BlockedUserTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/BlockedUserTests.swift",
+    "tests": [
+      {
+        "method": "func testBlockTriggersWelcome()",
+        "line": 21,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ChangeMPinTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/ChangeMPinTests.swift",
+    "tests": [
+      {
+        "method": "func testChangeMPinEntryExists()",
+        "line": 28,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ChatUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/ChatUITests.swift",
+    "tests": [
+      {
+        "method": "func testChatMinimize() throws",
+        "line": 19,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_linkForSafariIsTapped_then_safariIsOpenAndOnReturnInApplicationChatIsStillPresented()",
+        "line": 27,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_phoneNumberLinkIsTapped_then_authenticateCallIsPresented()",
+        "line": 46,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_feedbackCellIsTapped_then_feedbackScreenIsPresented()",
+        "line": 59,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_notStartedChat_when_closeChat_then_feedbackIsNotPresented()",
+        "line": 71,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_chatIsClosedByCustomer_then_feedbackIsPresentedAndChatIsDismissed()",
+        "line": 83,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_ongoingChatIsMinimized_then_chatEntryPointIsPresentedOnAllTab()",
+        "line": 100,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_existOngoingChatAndTrytoSwitchProfile_then_dialogAlertIsPresented()",
+        "line": 120,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_openChatWithoutStart_when_switchProfile_then_dialogAlertIsNotPresented()",
+        "line": 151,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_featureToggleIsOffForChatAndTryToOpenIt_then_informativeScreenIsPresented()",
+        "line": 168,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_when_existMinimizedOngoingChatAndTapOnNotification_then_chatIsPresented()",
+        "line": 182,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testChatMajorIncident()",
+        "line": 195,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_openChatEntryPointViewInModalView_then_alertToClosePreviousFlowsAppearsWhenTapOnProcessCard() throws",
+        "line": 206,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_openChatEntryPointViewInModalView_then_entryPointViewIsRemovedWhenConversationIsEnded() throws",
+        "line": 237,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "DirectDebitsPaymentMethodActionTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/DirectDebitsPaymentMethodActionTests.swift",
+    "tests": [
+      {
+        "method": "func test_directDebitsDetail_refuseAction_shouldSucceed()",
+        "line": 18,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ForecastConsentTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/ForecastConsentTests.swift",
+    "tests": [
+      {
+        "method": "func testEnablingForecastingFromSettingsSuccess()",
+        "line": 175,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testEnablingForecastingFromSettingsFailure()",
+        "line": 195,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testEnablingForecastingFromSettingsMinorFailure()",
+        "line": 216,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDisablingForecastingFromSettingsSuccess()",
+        "line": 225,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDisablingForecastingFromSettingsFailure()",
+        "line": 231,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpeningForecastingAlreadyEnabled()",
+        "line": 242,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInlineForecastingEnablingSuccess()",
+        "line": 250,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInlineForecastingEnablingFailure()",
+        "line": 268,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInlineForecastingEnablingUnderSixteenFailure()",
+        "line": 293,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testForecastingToggleIsOff()",
+        "line": 302,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ForecastingUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/ForecastingUITests.swift",
+    "tests": [
+      {
+        "method": "func testForecastingMoneyTransferFlowOpens()",
+        "line": 24,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInformationalDialogOpens()",
+        "line": 31,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testForecastingButtonNotAvailable()",
+        "line": 38,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "INGSearchUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/INGSearchUITests.swift",
+    "tests": [
+      {
+        "method": "func testHappyFlowForSearchItems()",
+        "line": 23,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testHappyFlowForSearchTransactions()",
+        "line": 37,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUnHappyFlowForSearchNavigationBar()",
+        "line": 55,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "InAndOutUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/InAndOutUITests.swift",
+    "tests": [
+      {
+        "method": "func testTabInAndOutOpensProperly()",
+        "line": 23,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testInAndOutFeedbackExists()",
+        "line": 30,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCategorizationFeedbackExists()",
+        "line": 36,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTransactionsTableExists()",
+        "line": 44,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAgreementsCallNoEligibleAccountsDoesntCrashApp()",
+        "line": 53,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testFinancialPeriodsCallFails()",
+        "line": 61,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "InAppCallUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/InAppCallUITests.swift",
+    "tests": [
+      {
+        "method": "func testInAppCallOverlay() throws",
+        "line": 15,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_inAppCallIsOngoing_when_logoutLoginIsMade_then_overlayIsVisible() throws",
+        "line": 36,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_given_inAppCallIsEnded_when_logoutLoginIsMade_then_overlayIsNotVisible() throws",
+        "line": 55,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "InboxTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/InboxTests.swift",
+    "tests": [
+      {
+        "method": "func testNoMessages()",
+        "line": 17,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMessages()",
+        "line": 23,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMessagesLoadError()",
+        "line": 28,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "JailbreakDetectionTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/JailbreakDetectionTests.swift",
+    "tests": [
+      {
+        "method": "func testJailbreakDetectionEnabled()",
+        "line": 17,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "MessagesTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/MessagesTests.swift",
+    "tests": [
+      {
+        "method": "func testMessagesCanBePresentedAndDismissed()",
+        "line": 34,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testElements()",
+        "line": 52,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testLogout()",
+        "line": 59,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAppMovedToBackgroundAfterManualLogoutComesInForegroundOnPinpadViewController()",
+        "line": 72,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "MoneyTransferFlowTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/MoneyTransfer/MoneyTransferFlowTests.swift",
+    "tests": [
+      {
+        "method": "func testOrdersApplicationURLTriggersMoneyTransferFlow() throws",
+        "line": 37,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMoneyTransferFlowSucceedsForDeposit()",
+        "line": 42,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMoneyTransferFlowSucceedsForTransfer()",
+        "line": 58,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMoneyTransferFlowWithPreselectedAccount()",
+        "line": 70,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testMoneyTransferFlowSucceedsForWithdraw()",
+        "line": 80,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_addToAddressBookButton_isAvailableAfterMoneyTransfer()",
+        "line": 91,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_toPendingPayments_isAvailableAfterMoneyTransfer()",
+        "line": 103,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_moneyTransferWithOpticashAccount_onlyOneAccountIsDeselected()",
+        "line": 121,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_moneyTransferFlowWithWarnings()",
+        "line": 136,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_moneyTransferFlowWithInsufficientFunds()",
+        "line": 165,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_moneyTransferFlowWithRejectedStatus()",
+        "line": 179,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_sharingTransferDetails()",
+        "line": 196,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_cancelMoneyTransferForm()",
+        "line": 217,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_majorIncidents_forCurrentAccount()",
+        "line": 231,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test(beneficiariesBehavior: BeneficiariesBehavior, flowType: FlowType, line: UInt = #line)",
+        "line": 286,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "NotificationCenterUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/NotificationCenterUITests.swift",
+    "tests": [
+      {
+        "method": "func test_openAllFlows()",
+        "line": 24,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "OneAppTransactionsCoordinatorUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/OneAppTransactionsCoordinatorUITests.swift",
+    "tests": [
+      {
+        "method": "func testTransferScreenOpens()",
+        "line": 31,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAddressBookOpens()",
+        "line": 38,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSearchSimilarScreenOpens()",
+        "line": 45,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "OrdersUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/OrdersUITests.swift",
+    "tests": [
+      {
+        "method": "func testEditOrdersFlow()",
+        "line": 33,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "OutageAndMaintenanceTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/OutageAndMaintenanceTests.swift",
+    "tests": [
+      {
+        "method": "func testErrorHandlerHandleMaintenanceErrors()",
+        "line": 17,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testErrorHandlerHandleOutageErrors()",
+        "line": 28,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testErrorHandlerHandleGenericErrors()",
+        "line": 39,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_nonBlockingLoginIncident_resultsIntoNonBlockingMessage()",
+        "line": 49,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_blockingLoginIncident_resultsIntoBlockingMessage()",
+        "line": 69,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PendingConsentUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/PendingConsentUITests.swift",
+    "tests": [
+      {
+        "method": "func test_pendingGMTBasket_createdBeforeLogin_isPresentedAfterLogin()",
+        "line": 15,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_pendingGMTBasket_createdAfterLogin_isPresentedWhenApplicationURLIsTriggered()",
+        "line": 27,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_deeplinkIsPresented_andBasketIsIgnored_ifPendingBasketIsFetched()",
+        "line": 42,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "PrivacyModeTests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/PrivacyModeTests.swift",
+    "tests": [
+      {
+        "method": "func testPrivacyModeEntryExists()",
+        "line": 29,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testAppSettingsCanBePresentedAndDismissed()",
+        "line": 35,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "SettingsUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/SettingsUITests.swift",
+    "tests": [
+      {
+        "method": "func testLanguageLabelIsShownInSettings()",
+        "line": 14,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testForecastingIsShownForPrivateCustomers()",
+        "line": 20,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testForecastingShowsCorrectErrorForMinor()",
+        "line": 30,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testForecastingShowsCorrectState()",
+        "line": 38,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpenMobilePaymentsWithPrivateProfile()",
+        "line": 54,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testOpenMobilePaymentsWithBusinessProfile()",
+        "line": 63,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "TabbarUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/TabbarUITests.swift",
+    "tests": [
+      {
+        "method": "func testSaveNavigationContext()",
+        "line": 17,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testNavigationScroll()",
+        "line": 49,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTransitioningFromForegroundToBackgroundDoesntLogsTheUserOut()",
+        "line": 71,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testTabSwitchFromDeepLink()",
+        "line": 83,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testDeepLinkDeferredLogin()",
+        "line": 96,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "WelcomeUITest.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/WelcomeUITest.swift",
+    "tests": [
+      {
+        "method": "func testAppDeregisterAfterThreeTimeWrongPin()",
+        "line": 25,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testUserStaysInEnrollmentFlowWhenMovingFromBackgroundToForeground()",
+        "line": 31,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testStartsEnrollment()",
+        "line": 42,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testStartsOnboarding()",
+        "line": 48,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testCanNavigateBack()",
+        "line": 55,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func testSupplementaryAction()",
+        "line": 62,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "WhosCallingFlowUITests.swift",
+    "filepath": "../../P01793-ios-one-app/OneAppUITests/WhosCalling/WhosCallingFlowUITests.swift",
+    "tests": [
+      {
+        "method": "func test_happyFlowNamedAndUnnamed()",
+        "line": 23,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_UnhappyAndErrorFlows()",
+        "line": 43,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ROOneAppUITestsLaunchTests.swift",
+    "filepath": "../../P01793-ios-one-app/ROOneApp/ROOneAppUITests/ROOneAppUITestsLaunchTests.swift",
+    "tests": [
+      {
+        "method": "func testLaunch() throws",
+        "line": 20,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  }
+]

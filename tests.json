@@ -1,0 +1,52 @@
+[
+  {
+    "filename": "PaymentInitiationServiceTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/PaymentInitiationServiceTests.swift",
+    "tests": [
+      {
+        "method": "func testTransferFlow_forSingleUser() throws",
+        "line": 20,
+        "block": {
+          "given": [
+            "There is a user logged in"
+          ],
+          "when": [
+            "User opens the app"
+          ],
+          "then": [
+            "Shortcuts are registered",
+            "Shortcuts are registered a second time"
+          ],
+          "tags": [
+            {
+              "key": "team",
+              "value": "transformers"
+            },
+            {
+              "key": "info",
+              "value": "happyflow"
+            },
+            {
+              "key": "module",
+              "value": "PIS"
+            }
+          ]
+        }
+      },
+      {
+        "method": "func testTransferFlow_forCombiUser() throws",
+        "line": 35,
+        "block": {
+          "given": [
+            "There is a user logged in"
+          ],
+          "when": [
+            "User opens the app"
+          ],
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  }
+]
