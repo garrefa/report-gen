@@ -1,0 +1,128 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #1c1c1e;
+    color: #ffffff;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #ff9500;
+}
+
+#tag-filter {
+    margin-bottom: 20px;
+}
+
+.tag-button {
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-right: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.tag-button[data-key="team"] {
+    background-color: #0a84ff;
+    color: #ffffff;
+}
+
+.tag-button[data-key="module"] {
+    background-color: #30d158;
+    color: #ffffff;
+}
+
+.tag-button[data-key="info"] {
+    background-color: #5e5e5e;
+    color: #ffffff;
+}
+
+.tag-button:not([data-key="team"]):not([data-key="module"]):not([data-key="info"]) {
+    background-color: #ff9f0a;
+    color: #ffffff;
+}
+
+.tag-button.active {
+    font-weight: bold;
+}
+
+.file-item {
+    background-color: #2c2c2e;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.file-item h2 {
+    margin: 0;
+    color: #ff9500;
+}
+
+.test-list {
+    display: none;
+    margin-top: 10px;
+}
+
+.test-item {
+    background-color: #1c1c1e;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.test-item h3 {
+    margin: 0;
+    color: #ff9500;
+}
+
+.test-item .tags {
+    margin-top: 5px;
+}
+
+.test-item .tags span {
+    border-radius: 4px;
+    padding: 2px 5px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.test-item .tags span[data-key="team"] {
+    background-color: #0a84ff;
+    color: #ffffff;
+}
+
+.test-item .tags span[data-key="module"] {
+    background-color: #30d158;
+    color: #ffffff;
+}
+
+.test-item .tags span[data-key="info"] {
+    background-color: #5e5e5e;
+    color: #ffffff;
+}
+
+.test-item .tags span:not([data-key="team"]):not([data-key="module"]):not([data-key="info"]) {
+    background-color: #ff9f0a;
+    color: #ffffff;
+}
+
+.test-details {
+    display: none;
+    margin-top: 10px;
+}
+
+.test-details p {
+    margin: 5px 0;
+}
+
+.test-details strong {
+    color: #ff9500;
+}

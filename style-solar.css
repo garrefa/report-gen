@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #002b36;
+    color: #839496;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #b58900;
+}
+
+.file-item {
+    background-color: #073642;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.file-item h2 {
+    margin: 0;
+    color: #cb4b16;
+}
+
+.test-list {
+    display: none;
+    margin-top: 10px;
+}
+
+.test-item {
+    background-color: #002b36;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.test-item h3 {
+    margin: 0;
+    color: #268bd2;
+}
+
+.test-item .tags {
+    margin-top: 5px;
+}
+
+.test-item .tags span {
+    background-color: #586e75;
+    border-radius: 4px;
+    padding: 2px 5px;
+    margin-right: 5px;
+    font-size: 12px;
+    color: #93a1a1;
+}
+
+.test-details {
+    display: none;
+    margin-top: 10px;
+}
+
+.test-details p {
+    margin: 5px 0;
+}
+
+.test-details strong {
+    color: #6c71c4;
+}
+
+.tag-button {
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-right: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.tag-button[data-key="team"] {
+    background-color: #268bd2;
+    color: #002b36;
+}
+
+.tag-button[data-key="module"] {
+    background-color: #859900;
+    color: #002b36;
+}
+
+.tag-button[data-key="info"] {
+    background-color: #586e75;
+    color: #002b36;
+}
+
+.tag-button:not([data-key="team"]):not([data-key="module"]):not([data-key="info"]) {
+    background-color: #b58900;
+    color: #002b36;
+}
+
+.tag-button.active {
+    font-weight: bold;
+}
+
+#tag-filter {
+    margin-bottom: 20px;
+}
+
+.test-item .tags span {
+    border-radius: 4px;
+    padding: 2px 5px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.test-item .tags span[data-key="team"] {
+    background-color: #268bd2;
+    color: #002b36;
+}
+
+.test-item .tags span[data-key="module"] {
+    background-color: #859900;
+    color: #002b36;
+}
+
+.test-item .tags span[data-key="info"] {
+    background-color: #586e75;
+    color: #002b36;
+}
+
+.test-item .tags span:not([data-key="team"]):not([data-key="module"]):not([data-key="info"]) {
+    background-color: #b58900;
+    color: #002b36;
+}

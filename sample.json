@@ -1,0 +1,168 @@
+[
+  {
+    "filename": "PaymentInitiationServiceTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/PaymentInitiationServiceTests.swift",
+    "tests": [
+      {
+        "method": "func testTransferFlow_forSingleUser() throws",
+        "line": 20,
+        "block": {
+          "given": ["There is a user logged in"],
+          "when": ["User opens the app"],
+          "then": ["Shortcuts are registered", "Shortcuts are registered a second time"],
+          "tags": [
+            {
+              "key": "team",
+              "value": "transformers"
+            },
+            {
+              "key": "info",
+              "value": "single-user"
+            },
+            {
+              "key": "module",
+              "value": "PIS"
+            }
+          ]
+        }
+      },
+      {
+        "method": "func testTransferFlow_forCombiUser() throws",
+        "line": 35,
+        "block": {
+          "given": ["There is a user logged in"],
+          "when": ["User opens the app"],
+          "then": null,
+          "tags": [
+            {
+              "key": "team",
+              "value": "transformers"
+            },
+            {
+              "key": "info",
+              "value": "combi-user"
+            },
+            {
+              "key": "module",
+              "value": "PIS"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "filename": "AUOneAppUITests.swift",
+    "filepath": "../../P01793-ios-one-app/AUOneApp/AUOneAppUITests/AUOneAppUITests.swift",
+    "tests": [
+      {
+        "method": "func testExample() throws",
+        "line": 25,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "AUWelcomeCoordinatorTests.swift",
+    "filepath": "../../P01793-ios-one-app/AUOneApp/AUOneAppUITests/AUWelcomeCoordinatorTests.swift",
+    "tests": [
+      {
+        "method": "func testEnrollment()",
+        "line": 13,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "AboutThisAppTests.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/AboutThisAppTests.swift",
+    "tests": [
+      {
+        "method": "func test_entries_areAllAvailable() throws",
+        "line": 35,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  },
+  {
+    "filename": "ActionButtonsTest.swift",
+    "filepath": "../../P01793-ios-one-app/BEOneApp/BEOneAppUITests/ActionButtonsTest.swift",
+    "tests": [
+      {
+        "method": "func test_SEPAEntry()",
+        "line": 26,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_transferActionButton_opens()",
+        "line": 45,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_requestActionButton_opens()",
+        "line": 58,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_WorldLineQQCodeEntry()",
+        "line": 75,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_PayconiqQCodeEntry()",
+        "line": 81,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      },
+      {
+        "method": "func test_bancontactQCodeEntry()",
+        "line": 86,
+        "block": {
+          "given": null,
+          "when": null,
+          "then": null,
+          "tags": null
+        }
+      }
+    ]
+  }
+]
