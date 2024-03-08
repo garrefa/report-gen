@@ -2,139 +2,18 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
-        <title>UI Test Explorer</title>
-        <style>
-            body {
-                color: #333;
-            }
-
-            .accordion {
-                border-radius: 8px;
-                margin: 1rem 0;
-                background-color: #fff;
-                cursor: pointer;
-                padding: 18px;
-                width: 100%;
-                text-align: left;
-                border: 1px solid #ccc;
-                outline: none;
-                transition: background-color 0.4s ease;
-            }
-
-            .accordion:hover,
-            .accordion:focus {
-                background-color: #e0e0e0;
-            }
-
-            .accordion:after {
-                content: "\002B";
-                color: #777;
-                font-weight: bold;
-                float: right;
-                margin-left: 5px;
-            }
-
-            .active:after {
-                content: "\2212";
-            }
-
-            .panel {
-                padding: 0 18px;
-                background-color: white;
-                max-height: 0;
-                overflow: hidden;
-                transition: max-height 0.2s ease-out;
-                border-radius: 8px;
-            }
-
-            .test-details {
-                margin-bottom: 1rem;
-            }
-
-            .test-details h4 {
-                margin-top: 1rem;
-            }
-
-            .sub-item {
-                padding-left: 1rem;
-            }
-        </style>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>UI Tests Explorer</title>
+        <link rel="stylesheet" href="style.css" />
     </head>
     <body>
-        <nav class="container-fluid">
-            <ul>
-                <li><strong>UI Test Explorer</strong></li>
-            </ul>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#" role="button">Contact</a></li>
-            </ul>
-        </nav>
-        <main class="container">
-            <div class="grid">
-                <section>
-                    <h2>UI Tests</h2>
-                    <button class="accordion">PaymentInitiationServiceTests.swift</button>
-                    <div class="panel">
-                        <div class="test-item">
-                            <button class="accordion">
-                                testTransferFlow_forSingleUser
-                                <div class="hashtags">#team:transformers #info:happyflow #module:PIS</div>
-                            </button>
-                            <div class="panel">
-                                <div class="test-details">
-                                    <h4>Given</h4>
-                                    <p class="sub-item">There is a user logged in</p>
-                                </div>
-                                <div class="test-details">
-                                    <h4>When</h4>
-                                    <p class="sub-item">User opens the app</p>
-                                </div>
-                                <div class="test-details">
-                                    <h4>Then</h4>
-                                    <p class="sub-item">Shortcuts are registered</p>
-                                    <p class="sub-item">Shortcuts are registered a second time</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="test-item">
-                            <button class="accordion">
-                                testTransferFlow_forCombiUser
-                                <div class="hashtags"></div>
-                            </button>
-                            <div class="panel">
-                                <div class="test-details">
-                                    <h4>Given</h4>
-                                    <p class="sub-item">There is a user logged in</p>
-                                </div>
-                                <div class="test-details">
-                                    <h4>When</h4>
-                                    <p class="sub-item">User opens the app</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-            </div>
+        <header>
+            <h1>UI Tests Explorer</h1>
+        </header>
+        <main>
+            <div id="tag-filter"></div>
+            <div id="test-list"></div>
         </main>
-        <script>
-            var acc = document.getElementsByClassName("accordion");
-            var i;
-
-            for (i = 0; i < acc.length; i++) {
-                acc[i].addEventListener("click", function () {
-                    this.classList.toggle("active");
-                    var panel = this.nextElementSibling;
-                    if (panel.style.maxHeight) {
-                        panel.style.maxHeight = null;
-                    } else {
-                        panel.style.maxHeight = panel.scrollHeight + "px";
-                    }
-                });
-            }
-        </script>
+        <script src="script.js"></script>
     </body>
 </html>
