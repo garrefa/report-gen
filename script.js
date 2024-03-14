@@ -101,19 +101,10 @@ fetch("sample.json")
 
             testItem.appendChild(testDetails);
             testListContainer.appendChild(testItem);
-
-            testItem.addEventListener("click", (event) => {
-              event.stopPropagation();
-              testDetails.style.display = testDetails.style.display === "none" ? "block" : "none";
-            });
           });
 
           fileItem.appendChild(testListContainer);
           testList.appendChild(fileItem);
-
-          fileItem.addEventListener("click", () => {
-            testListContainer.style.display = testListContainer.style.display === "none" ? "block" : "none";
-          });
         }
       });
     }
